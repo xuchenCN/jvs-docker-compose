@@ -13,7 +13,7 @@ JVS是“软开企服”推出的面向软件开发团队可以快速实现应�
 
 `安装过程中如出现其它任何问题可联系技术支持群`
 
-<img width="143" alt="1668057426761" src="https://user-images.githubusercontent.com/94048608/201007809-92a9e666-c2aa-460e-a833-52170664c3e4.png">
+<img width="132" alt="1668647496710" src="https://user-images.githubusercontent.com/94048608/202330369-34305a61-3d66-4b6f-b06a-d3d7bed9a136.png">
 
 
 
